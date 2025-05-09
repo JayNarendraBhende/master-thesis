@@ -1,2 +1,1 @@
-# master-thesis
-Python code developed during my Master’s thesis to plot contributions from various terms in the third-order perturbative expansion of the counter operator.
+This repository contains the Python code developed for my Master's thesis at Heidelberg University. The project focuses on the non-linear evolution of cosmic density contrast using Kinetic Field Theory (KFT) with a third-order perturbative expansion of the counter operator. The study specifically models the contributions of Cold Dark Matter (CDM) to the evolution of large-scale structure.
